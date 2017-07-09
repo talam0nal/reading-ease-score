@@ -2,6 +2,8 @@
 
 namespace Talam0nal\Readability;
 
+use Pattern;
+
 class Readability
 {
     public $writing_sample;
