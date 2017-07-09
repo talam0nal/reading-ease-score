@@ -1,0 +1,18 @@
+{
+    "name": "talam0nal/reading-ease-score",
+    "description": "Reading ease score",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "talam0nal",
+            "email": "talam0nal@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Talam0nal\\Readability\\": ""
+        }
+    }
+}
